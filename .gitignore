@@ -1,0 +1,6 @@
+tiktok_downloads/
+downloads_archive.txt
+failed_downloads.txt
+cookies.txt
+__pycache__/
+*.pyc
